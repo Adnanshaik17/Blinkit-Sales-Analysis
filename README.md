@@ -73,5 +73,3 @@ To identify top-performing products, analyze outlet-level sales, and determine h
 - 📈 Visibility has limited impact alone—suggests combined feature importance in product placement
 
 ---
-
-## 📁 Project Structure
